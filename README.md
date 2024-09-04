@@ -28,10 +28,8 @@ To run this project locally, you will need the following:
 ## Getting Started
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/Nashed-Fekry/Nashed-Fekry---Assessment.git
-cd Nashed-Fekry---Assessment
-```
+ [https://github.com/Nashed-Fekry/Employee-Management-API .git]
+
 
 ### 2. Setup PostgreSQL
 1. Ensure PostgreSQL is installed and running.
