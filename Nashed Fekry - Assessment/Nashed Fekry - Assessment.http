@@ -1,0 +1,6 @@
+@Nashed_Fekry___Assessment_HostAddress = http://localhost:5129
+
+GET {{Nashed_Fekry___Assessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
