@@ -28,7 +28,7 @@ To run this project locally, you will need the following:
 ## Getting Started
 
 ### 1. Clone the repository
- [https://github.com/Nashed-Fekry/Employee-Management-API .git]
+ [https://github.com/Nashed-Fekry/Employee-Management-API ]
 
 
 ### 2. Setup PostgreSQL
